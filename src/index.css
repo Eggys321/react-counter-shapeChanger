@@ -11,3 +11,29 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.btn{
+  background-color: blue;
+  color: white;
+  font-size: larger;
+  margin-right: 20px;
+}
+
+h2{
+  font-size: 80px;
+}
+
+.circle{
+  width: 300px;
+  height: 300px;
+  border-radius: 100%;
+  background-color: green;
+}
+
+.square{
+  width: 300px;
+  height: 300px;
+  background-color: yellow;
+}
+
+
